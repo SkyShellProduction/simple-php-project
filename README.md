@@ -20,3 +20,5 @@
 - send data from busket 
 - clear data from busket after sending
 - database mysql 
+- routing by pages
+- every user have the role guest
